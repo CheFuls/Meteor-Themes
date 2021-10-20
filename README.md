@@ -1,5 +1,5 @@
 # Meteor-Themes
-Simpl meteor themes
+Simple meteor themes
 
 put Meteor.nbt to C:\Users\UserName\AppData\Roaming\.minecraft\meteor-client\gui\themes\
 
