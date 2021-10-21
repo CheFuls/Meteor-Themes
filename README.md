@@ -1,7 +1,10 @@
 # Meteor-Themes
 Simple meteor themes
 
-put Meteor.nbt to C:\Users\UserName\AppData\Roaming\.minecraft\meteor-client\gui\themes\
+How to install:
+Put Meteor.nbt to `C:\Users\%username%\AppData\Roaming\.minecraft\meteor-client\gui\themes\`
+Else put Meteor.nbt into meteor-client\gui\themes where is directory of your launcher or minecraft.
 
-
-Themes by MamaHacker#1983
+Theme authors:
+MamaHacker#1983
+Kightinum#8130
