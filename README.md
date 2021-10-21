@@ -8,5 +8,5 @@ Else put Meteor.nbt into meteor-client\gui\themes where is directory of your lau
 
 Theme authors:
 
--MamaHacker#1983
--Kightinum#8130
+- MamaHacker#1983
+- Kightinum#8130
