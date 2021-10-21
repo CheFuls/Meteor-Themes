@@ -1,4 +1,4 @@
-# Meteor-Themes
+# Simple-Meteor-Themes
 Simple meteor themes
 
 How to install:
